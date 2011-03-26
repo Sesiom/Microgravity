@@ -1,0 +1,4 @@
+This is the Arduino project. These files will be put together
+to run a program to detect frequency of the Motor outputs,
+calculate RPM (Revolutions Per Minute), and adjust the power
+supplied to the motors to match the desired speed.

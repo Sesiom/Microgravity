@@ -1,0 +1,3 @@
+This program will start the CMGs, specify the configuration
+in which to run (ie which motors are turned on, speed, etc),
+and start and begin recording the webcam.

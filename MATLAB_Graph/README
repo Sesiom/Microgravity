@@ -1,0 +1,4 @@
+This script will be used to connect to the Arduino board
+via Bluetooth. It will receive data in the format:
+"$DATA,time,rpm;" which will be parsed and displayed on
+a plot in MATLAB in real-time.
