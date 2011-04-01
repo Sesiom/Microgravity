@@ -1,4 +1,4 @@
-% Author: -----
+% Author: Bob Rica
 
 clear all;
 s1 = serial('COM1');                            %define serial port
